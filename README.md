@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **sudhanshu2dbit@gmail.com**
 
-- ⚡ Fun fact **There is no fun fact about me**
+- ⚡ Fun fact **let me find one :> **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
