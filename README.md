@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hello World, I'm Sudhanshu Ranjan
+# 👋 Hello World, I'm Sudhanshu Ranjan.
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00B4DB&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;Frontend+Enthusiast;Open+Source+Contributor)](https://git.io/typing-svg)
 
